@@ -72,6 +72,7 @@ h1.mode-error {
   width: 100%;
   max-width: 1162px;
   position: relative;
+  display: block;
 }
 
 /*Leaflet map*/
